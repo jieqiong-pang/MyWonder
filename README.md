@@ -1,7 +1,6 @@
 # MyWonder
 [![DOI](https://zenodo.org/badge/303238488.svg)](https://zenodo.org/badge/latestdoi/303238488)
 
-#### Author: Kuan-Hui Lin
 
 **Citing MyWonder:**
 If you want to cite the first version of the software, you can do by using https://doi.org/10.5281/zenodo.4084501
