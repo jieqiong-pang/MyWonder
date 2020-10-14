@@ -11,6 +11,23 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 | Defects   | 1. Unintelligible and obscure terminology and contents used in the user interface are not easy understand for the users.  <br />2. A lack of an important noting area in the visualizations in the UI which can allow users to document their behaviors. |
 
 
+|-----------------+------------+-----------------+----------------|
+| Wastes  |MyWonder Project| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+|  Wastes |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Transport    |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+
+
+
+
+
 
 # Deliverables
 
