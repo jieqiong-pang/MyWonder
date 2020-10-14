@@ -4,6 +4,7 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 
 
 # Identified wastes
+HHHHH
 | Wastes          | MyWonder Project | 
 |-----------------|:-----------|
 | Waiting         | 1. For client and CEO, they wait  for responses about explanation of terminology and contents from other departments. | 
