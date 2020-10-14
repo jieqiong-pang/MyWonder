@@ -14,15 +14,15 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 |-----------------+------------+-----------------+----------------|
 | Wastes  |MyWonder Project| Center aligned  | Right aligned  |
 |-----------------|:-----------|:---------------:|---------------:|
-|  Wastes |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
+| Wastes          |1. For client and CEO, they wait  for responses about explanation of terminology and contents from other departments. | 
+|                 |2. Waiting for a person to update contents used in the user interface before a demo. | 
 |-----------------+------------+-----------------+----------------|
-| Transport    |            |                 |                |
-| 2 line          |            |                 |                |
+| Transport       | 1. Moving a question about explanation of terminology and contents from customer support to developers. | 
+|                 | 2. Transporting a requirement about changing the contents in the user interface from customer support to developers.|
+|-----------------+------------+-----------------+----------------|
+| Defects         | 1. Unintelligible and obscure terminology and contents used in the user interface are not easy understand for the users. | 
+|                 | 2. A lack of an important noting area in the visualizations in the UI which can allow users to document their behaviors. |
 |=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
 
 
 
